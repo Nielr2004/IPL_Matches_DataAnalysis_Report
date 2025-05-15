@@ -1,4 +1,4 @@
-🏏# IPL 2022 Data Analysis Report
+# IPL 2022 Data Analysis Report 🏏
 
 This repository contains Python scripts that analyze the IPL 2022 matches dataset (`IPL_Matches_2022.csv`). The goal is to extract insights, visualize patterns, and provide statistical summaries of key aspects of the tournament.
 
